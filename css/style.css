@@ -1,0 +1,30 @@
+
+html {
+  background-color: cornflowerblue;
+}
+
+#search {
+  margin: 0;
+}
+
+#Logo {
+  font-family: Butler, serif;
+}
+body {
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: peachpuff;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0 auto 0 auto;
+}
+section p {
+  background-color: peachpuff;
+  margin: 10px;
+  border: 3px solid cornflowerblue;
+  padding: 10px;
+}
+.top {
+  text-align: center;
+}
